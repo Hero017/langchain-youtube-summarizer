@@ -1,0 +1,13 @@
+langchain
+yt-dlp
+youtube-transcript-api
+transformers
+torch
+jinja2
+reportlab
+fpdf
+pypdf
+sentence-transformers
+imageio-ffmpeg
+openai-whisper @ git+https://github.com/openai/whisper.git
+
